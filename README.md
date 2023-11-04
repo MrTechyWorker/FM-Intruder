@@ -15,13 +15,13 @@ Imagine building a device which can do the same but also that can intrude pre-ex
  - An antenna (just a wire can be used)
 # Raspberry Pi setup
 Download, install and boot the Raspberrian OS to your Pi and open terminal to run the following commands:
-...
+```
  - sudo apt-get install make libsndfile1-dev
  - git clone https://github.com/ChristopheJacquet/PiFmRds.git
  - cd PiFmRds/src
  - make clean
  - make
-...
+```
 
 All the installations and setup are complete
 # Working
